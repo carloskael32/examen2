@@ -1,16 +1,5 @@
 </main>
 
-<style>
-
-footer {
-  
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-  color: black;
-}
-</style>
-
 
 
 <footer class="text-center bg-light">
